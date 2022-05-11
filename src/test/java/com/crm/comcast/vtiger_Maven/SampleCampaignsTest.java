@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 public class SampleCampaignsTest
 {
-	//it is used to create campaign
+	//it is used to create campaign    ashwini
 	@Test(groups="ST")
 	public void CreateCampaignTest()
 	{
