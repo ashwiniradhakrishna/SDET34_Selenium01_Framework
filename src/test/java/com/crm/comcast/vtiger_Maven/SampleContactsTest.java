@@ -10,7 +10,7 @@ public class SampleContactsTest
 		System.out.println("contact created");
 	}
 	
-	
+	ashwini
 	@Test(groups="RT")
 	public void ModifyContactTest()
 	{
